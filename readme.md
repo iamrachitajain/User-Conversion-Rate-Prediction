@@ -20,4 +20,4 @@ python main.py
 
 ## Data 
 
-![alt text](https://github.com/iamrachitajain/User-Conversion-Rate-Prediction/tree/main/tables.png)
+![alt text](https://github.com/iamrachitajain/User-Conversion-Rate-Prediction/tree/main/tables1.png)
